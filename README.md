@@ -1,2 +1,2 @@
 # WebTool
-Where i build small tôls to help mysefl
+Where i build small tools to help mysefl
