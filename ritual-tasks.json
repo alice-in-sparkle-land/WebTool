@@ -1,0 +1,60 @@
+{
+  "_comment": "Edit this file to change your daily routines. The app reads it on load.",
+  "_format": "Use 'everyday' for daily tasks. Days 0-6 = Sun, Mon, Tue, Wed, Thu, Fri, Sat.",
+
+  "everyday": [
+    "Practice lyre harp",
+    "Writing phrases",
+    "Feed the cat",
+    "5min calisthenics",
+    "Learning maths for Master"
+  ],
+
+  "days": {
+    "0": {
+      "_name": "Sunday",
+      "extra": [
+        "Pilates"
+      ]
+    },
+    "1": {
+      "_name": "Monday",
+      "extra": [
+        "Learning guzheng",
+        "Chinese",
+        "Driving license test"
+      ]
+    },
+    "2": {
+      "_name": "Tuesday",
+      "extra": [
+        "Chinese dancing class"
+      ]
+    },
+    "3": {
+      "_name": "Wednesday",
+      "extra": [
+        "Chinese"
+      ]
+    },
+    "4": {
+      "_name": "Thursday",
+      "extra": [
+        "Chinese dancing class"
+      ]
+    },
+    "5": {
+      "_name": "Friday",
+      "extra": [
+        "Guzheng",
+        "Chinese"
+      ]
+    },
+    "6": {
+      "_name": "Saturday",
+      "extra": [
+        "Pilates"
+      ]
+    }
+  }
+}
